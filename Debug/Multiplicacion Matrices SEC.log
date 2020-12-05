@@ -1,0 +1,4 @@
+﻿  Multiplicacion Matrices SEC.cpp
+C:\Users\AOROS\Desktop\Dev\C++\Multiplicacion Matrices SEC\Multiplicacion Matrices SEC\Multiplicacion Matrices SEC.cpp(26,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\AOROS\Desktop\Dev\C++\Multiplicacion Matrices SEC\Multiplicacion Matrices SEC\Multiplicacion Matrices SEC.cpp(23,15): warning C4101: 'k': variable local sin referencia
+  Multiplicacion Matrices SEC.vcxproj -> C:\Users\AOROS\Desktop\Dev\C++\Multiplicacion Matrices SEC\Debug\Multiplicacion Matrices SEC.exe
